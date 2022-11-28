@@ -38,5 +38,5 @@ print(unique_number_list(Number_List))
 # you can make a list with numbers you want organized by making a new list
 # and calling to the function I created
 # for example:
-new_list = [1, 3, 3, 3, 6, 2, 3, 5]
-print(unique_number_list(new_list))
+# new_list = [1, 3, 3, 3, 6, 2, 3, 5]
+# print(unique_number_list(new_list))
